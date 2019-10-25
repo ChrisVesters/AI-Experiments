@@ -2,7 +2,11 @@
 #include "Object.hpp"
 #include "Probability.hpp"
 
+<<<<<<< HEAD
 #include <vector>
+=======
+#include <iostream>
+>>>>>>> e8724fec8876b4bb16ed180ed26794cfadeb98eb
 
 void probabilityExample() {
 	std::vector<Object> dataset2;
